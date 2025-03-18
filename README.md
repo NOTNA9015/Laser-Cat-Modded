@@ -2,7 +2,7 @@
 
 A version of Laser Cat with slight modifications. 
 
-
+Might add new character(s) at some point
 
 
 
