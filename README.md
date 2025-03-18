@@ -1,15 +1,19 @@
 # Laser-Cat-Modded
 
-A version of Laser Cat with slight modifications. 
+A version of Laser Cat with slight modifications. Such as all characters costing 1 point and secret ninja is buyable. 
 
 Might add new character(s) at some point
 
 
 
+# How to install
 
-
-
-
+1. Press the puzzle icon on the top right in chrome.
+2. Press "Manage extensions"
+3. Enable developer mode
+4. Download source code as .zip and extract it
+5. Press "Load unpacked" and load the file called "ccnpdidcjgcdgaopacccfghmgdlipnoc"
+6. Enjoy!
 
 
 
