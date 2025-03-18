@@ -8,12 +8,12 @@ Might add new character(s) at some point
 
 # How to install
 
-1. Press the puzzle icon on the top right in chrome.
-2. Press "Manage extensions"
-3. Enable developer mode
-4. Download source code as .zip and extract it
-5. Press "Load unpacked" and load the file called "ccnpdidcjgcdgaopacccfghmgdlipnoc"
-6. Enjoy!
+1. Download source code as .zip and extract it
+2. Press the puzzle icon on the top right in chrome.
+3. Press "Manage extensions"
+4. Enable developer mode
+6. Press "Load unpacked" and load the file called "ccnpdidcjgcdgaopacccfghmgdlipnoc"
+7. Enjoy!
 
 
 
