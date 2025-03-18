@@ -1,0 +1,220 @@
+{
+  "appName": {
+    "message": "Laser Cat",
+    "description": "The name of the extension, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Shoot laser at things you want to remove from the internet",
+    "description": "The description of the extension, displayed in the web store."
+  },
+  "catName": {
+    "message": "Laser Cat"
+  },
+  "catDesc": {
+    "message": "The laser cat is trying to conquer the world with laser."
+  },
+  "frogName": {
+    "message": "Hungry Frog"
+  },
+  "frogDesc": {
+    "message": "The hungry frog eats whatever it can find with its long tounge."
+  },
+  "alienName": {
+    "message": "Angry Alien"
+  },
+  "alienDesc": {
+    "message": "The angry alien consumes websites with black holes."
+  },
+  "dogName": {
+    "message": "Calm Dog"
+  },
+  "dogDesc": {
+    "message": "The calm dog is okay with the events that are unfolding currently."
+  },
+  "unicornName": {
+    "message": "Fabulous Unicorn"
+  },
+  "unicornDesc": {
+    "message": "The fabulous unicorn has a magical horn with magical powers."
+  },
+  "dinoName": {
+    "message": "Extinct Dino"
+  },
+  "dinoDesc": {
+    "message": "The extinct dino can feel something big is heading its way."
+  },
+  "ninjaName": {
+    "message": "Secret Ninja"
+  },
+  "ninjaDesc": {
+    "message": "The secret ninja has spent many years perfecting its throw."
+  },
+  "stepOne": {
+    "message": "Step 1"
+  },
+  "stepTwo": {
+    "message": "Step 2"
+  },
+  "stepThree": {
+    "message": "Step 3"
+  },
+  "howToStepOneDesc": {
+    "message": "Go to a website"
+  },
+  "howToStepTwoDesc": {
+    "message": "Click on the activate button"
+  },
+  "howToStepThreeCatDesc": {
+    "message": "Click on the page to shoot laser"
+  },
+  "howToStepThreeFrogDesc": {
+    "message": "Click on the page to eat things"
+  },
+  "howToStepThreeAlienDesc": {
+    "message": "Click on the page to dissolve it"
+  },
+  "howToStepThreeDogDesc": {
+    "message": "Click on the page to start fires"
+  },
+  "howToStepThreeUnicornDesc": {
+    "message": "Click on the page to fire the horn"
+  },
+  "howToStepThreeDinoDesc": {
+    "message": "Click on the page to cause mass destruction"
+  },
+  "howToStepThreeNinjaDesc": {
+    "message": "Click on the page to throw ninja stars"
+  },
+  "privacyLink": {
+    "message": "Read the privacy policy"
+  },
+  "faqLink": {
+    "message": "Read the FAQ"
+  },
+  "supportLink": {
+    "message": "Support the development ♥"
+  },
+  "alwaysVisible": {
+    "message": "Always visible"
+  },
+  "muteSounds": {
+    "message": "Mute sounds"
+  },
+  "darkMode": {
+    "message": "Dark mode"
+  },
+  "autoMode": {
+    "message": "Mischievous mode"
+  },
+  "howTo": {
+    "message": "How to"
+  },
+  "characters": {
+    "message": "Characters"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "activate": {
+    "message": "Click here to activate!"
+  },
+  "pointsDesc": {
+    "message": "Zap things on the website and earn points."
+  },
+  "points": {
+    "message": "points"
+  },
+  "cannotActivate": {
+    "message": "Laser Cat cannot be activated right now. Please reload or go to another."
+  },
+  "cannotActivateChromeManaged": {
+    "message": "Laser Cat cannot be activated on Chrome managed pages. Please go to another."
+  },
+  "unexpectedError": {
+    "message": "Something unexpected happened (error_code: '$error$'). Please try again later or contact the developer of this chrome extension.",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "buy": {
+    "message": "Buy"
+  },
+  "notEnoughPoints": {
+    "message": "You don't have enough points to buy this character."
+  },
+  "unlockWithPoints": {
+    "message": "Unlock with $points$ points",
+    "placeholders": {
+      "points": {
+        "content": "$1"
+      }
+    }
+  },
+  "unlockWithMoney": {
+    "message": "Unlock for $price$",
+    "placeholders": {
+      "price": {
+        "content": "$1"
+      }
+    }
+  },
+  "unlockWithCode": {
+    "message": "Unlock with secret code"
+  },
+  "unlockStepOneDesc": {
+    "message": "Go to my <a href='https://www.buymeacoffee.com/AndreasMehlsen/e/76384' target='_blank'>my website</a>"
+  },
+  "unlockStepTwoDesc": {
+    "message": "Support my work with a small donation and receive an exclusive secret code as a token of appreciation"
+  },
+  "unlockStepThreeDesc": {
+    "message": "Enter the code you receive from the email and click 'Unlock all characters'"
+  },
+  "enterCode": {
+    "message": "Enter secret code..."
+  },
+  "unlock": {
+    "message": "Unlock all characters"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "wrongCode": {
+    "message": "The code you entered is wrong. Please try again!"
+  },
+  "unlockedName": {
+    "message": "You now have access to all characters!"
+  },
+  "unlockedDesc": {
+    "message": "Thank you so much for supporting me, it really means a lot ♥ I hope you will enjoy Laser Cat."
+  },
+  "amazing": {
+    "message": "Amazing"
+  },
+  "howToUnlock": {
+    "message": "This is how you unlock all characters."
+  },
+  "loading": {
+    "message": "Loading"
+  },
+  "reload": {
+    "message": "Reload"
+  },
+  "rewardName": {
+    "message": "Thanks for sticking with my extension! ♥"
+  },
+  "rewardDesc": {
+    "message": "As a little treat for sticking with my extension, here is a brand new character for free! If you enjoy Laser Cat please rate it on the Chrome store."
+  },
+  "rewardCta": {
+    "message": "Rate on Chrome store"
+  },
+  "rewardLabel": {
+    "message": "and support my free extension!"
+  },
+  "onboardingLink": {
+    "message": "See how to use Laser Cat"
+  }
+}
