@@ -1,6 +1,6 @@
 # Laser-Cat-Modded
 
-A version of Laser Cat with slight modifications. Such as all characters costing 1 point and secret ninja is buyable. 
+A version of Laser Cat with slight modifications. Such as all characters unlocked and uncapped fire and black holes. 
 
 Might add new character(s) at some point
 
