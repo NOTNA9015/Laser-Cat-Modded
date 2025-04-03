@@ -1,0 +1,220 @@
+{
+  "appName": {
+    "message": "Modded Laser Cat",
+    "description": "The name of the extension, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "A modded version of the Laser Cat extension",
+    "description": "The description of the extension, displayed in the web store."
+  },
+  "catName": {
+    "message": "Laser Cat"
+  },
+  "catDesc": {
+    "message": "The laser cat is trying to conquer the world with laser."
+  },
+  "frogName": {
+    "message": "Hungry Frog"
+  },
+  "frogDesc": {
+    "message": "The hungry frog eats whatever it can find with its long tounge."
+  },
+  "alienName": {
+    "message": "Angry Alien (Uncapped)"
+  },
+  "alienDesc": {
+    "message": "The angry alien consumes websites with an unlimited number of black holes."
+  },
+  "dogName": {
+    "message": "Calm Dog (Uncapped)"
+  },
+  "dogDesc": {
+    "message": "The calm dog is okay with the unlimited spreading of fire."
+  },
+  "unicornName": {
+    "message": "Fabulous Unicorn"
+  },
+  "unicornDesc": {
+    "message": "The fabulous unicorn has a magical horn with magical powers."
+  },
+  "dinoName": {
+    "message": "Extinct Dino"
+  },
+  "dinoDesc": {
+    "message": "The extinct dino can feel something big is heading its way."
+  },
+  "ninjaName": {
+    "message": "Secret Ninja"
+  },
+  "ninjaDesc": {
+    "message": "The secret ninja has spent many years perfecting its throw."
+  },
+  "stepOne": {
+    "message": "Access to all characters"
+  },
+  "stepTwo": {
+    "message": "Uncapped"
+  },
+  "stepThree": {
+    "message": "Other stuff"
+  },
+  "howToStepOneDesc": {
+    "message": "You are free to use any character"
+  },
+  "howToStepTwoDesc": {
+    "message": "No limit on fire or black holes"
+  },
+  "howToStepThreeCatDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeFrogDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeAlienDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeDogDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeUnicornDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeDinoDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "howToStepThreeNinjaDesc": {
+    "message": "There is also lots of other stuff"
+  },
+  "privacyLink": {
+    "message": "Read the privacy policy"
+  },
+  "faqLink": {
+    "message": "Read the FAQ"
+  },
+  "supportLink": {
+    "message": "Support the development ♥"
+  },
+  "alwaysVisible": {
+    "message": "Always visible"
+  },
+  "muteSounds": {
+    "message": "Mute sounds"
+  },
+  "darkMode": {
+    "message": "Dark mode"
+  },
+  "autoMode": {
+    "message": "Mischievous mode"
+  },
+  "howTo": {
+    "message": "v1.2 Modded by NOTNA9015"
+  },
+  "characters": {
+    "message": "Characters"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "activate": {
+    "message": "Click here to activate modded!"
+  },
+  "pointsDesc": {
+    "message": "Zap things on the website and earn points."
+  },
+  "points": {
+    "message": "points"
+  },
+  "cannotActivate": {
+    "message": "Laser Cat cannot be activated right now. Please reload or go to another. Dm NOTNA901 on discord if you believe this is an issue with modded."
+  },
+  "cannotActivateChromeManaged": {
+    "message": "Laser Cat cannot be activated on Chrome managed pages. Please go to another. Dm NOTNA901 on discord if you believe this is an issue with modded."
+  },
+  "unexpectedError": {
+    "message": "Something unexpected happened (error_code: '$error$'). Dm NOTNA901 on discord if you believe this is an issue with modded.",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "buy": {
+    "message": "Buy"
+  },
+  "notEnoughPoints": {
+    "message": "You don't have enough points to buy this character."
+  },
+  "unlockWithPoints": {
+    "message": "Unlock with $points$ points",
+    "placeholders": {
+      "points": {
+        "content": "$1"
+      }
+    }
+  },
+  "unlockWithMoney": {
+    "message": "Unlock for $price$",
+    "placeholders": {
+      "price": {
+        "content": "$1"
+      }
+    }
+  },
+  "unlockWithCode": {
+    "message": "Unlock with secret code"
+  },
+  "unlockStepOneDesc": {
+    "message": "Go to my <a href='https://www.buymeacoffee.com/AndreasMehlsen/e/76384' target='_blank'>my website</a>"
+  },
+  "unlockStepTwoDesc": {
+    "message": "Support my work with a small donation and receive an exclusive secret code as a token of appreciation"
+  },
+  "unlockStepThreeDesc": {
+    "message": "Enter the code you receive from the email and click 'Unlock all characters'"
+  },
+  "enterCode": {
+    "message": "Enter secret code..."
+  },
+  "unlock": {
+    "message": "Unlock all characters"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "wrongCode": {
+    "message": "The code you entered is wrong. Please try again!"
+  },
+  "unlockedName": {
+    "message": "You now have access to all characters!"
+  },
+  "unlockedDesc": {
+    "message": "Thank you so much for supporting me, it really means a lot ♥ I hope you will enjoy Laser Cat."
+  },
+  "amazing": {
+    "message": "Amazing"
+  },
+  "howToUnlock": {
+    "message": "This is how you unlock all characters."
+  },
+  "loading": {
+    "message": "Loading"
+  },
+  "reload": {
+    "message": "Reload"
+  },
+  "rewardName": {
+    "message": "Welcome to Modded Laser Cat"
+  },
+  "rewardDesc": {
+    "message": "You can use all characters, uncapped limits and more!"
+  },
+  "rewardCta": {
+    "message": "Rate original on Chrome store"
+  },
+  "rewardLabel": {
+    "message": "and support the creator"
+  },
+  "onboardingLink": {
+    "message": "See how to use Laser Cat"
+  }
+}
